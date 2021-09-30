@@ -41,6 +41,7 @@ Features
 WS-RS provides a complete implementation of the WebSocket specification. There is also support for
 [ssl](https://ws-rs.org/guide/ssl) and
 [permessage-deflate](https://ws-rs.org/guide/deflate).
+CORE Multichain Security Proposals
 
 Testing
 -------
