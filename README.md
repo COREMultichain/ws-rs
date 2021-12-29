@@ -52,4 +52,4 @@ WebSockets, including the tests for `permessage-deflate`. Visit
 Contributing
 ------------
 
-Please report bugs and make feature requests [here](https://github.com/housleyjk/ws-rs/issues). 
+Please report bugs and make feature requests [here](https://github.com/housleyjk/ws-rs/issues).
