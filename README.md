@@ -1,6 +1,6 @@
 # WS-RS
 
-Lightweight, event-driven WebSockets for [Rust](https://www.rust-lang.org).
+Lightweight,event-driven WebSockets for [Rust](https://www.rust-lang.org).
 ```rust
 
 /// A WebSocket echo server
